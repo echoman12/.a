@@ -1,0 +1,6 @@
+﻿token=التوكن 
+owner=498566145071120385
+prefix=2
+game= !thelp
+stayinchannel=true
+songinstatus=true 
