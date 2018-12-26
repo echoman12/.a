@@ -1,4 +1,4 @@
-﻿token=التوكن 
+﻿token=NTI3NDY2NzMzNzEyNDQxMzQ0.DwU2YA.AeIDB84gjMlK66_7i2zuEHk9SHo 
 owner=498566145071120385
 prefix=2
 game= !thelp
